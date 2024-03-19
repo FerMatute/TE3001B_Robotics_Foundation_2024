@@ -48,27 +48,23 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
   https://randomnerdtutorials.com/?s=+Timed+out+waiting+for+packet+header
   </p>
 ## <span style="color: rgb(26, 99, 169);">**Implementation**</span>
-  - Insert here
+  - Circuit
   <p style="text-align: center;">
-  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/chall3.jpeg" alt="node" style="width:200px;"/>
   <br />
-  - Insert here pt.1
+  - Launch node
   <br />
-  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/launch_nodes.png" alt="node" style="width:200px;"/>
   <br />
-  - Insert here pt.2
+  - System working
   <br />
-  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/working1.png" alt="node" style="width:200px;"/>
   <br />
-  - Insert here pt.3
+  - System Working Signal
   <br />
-  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/working2.png" alt="node" style="width:200px;"/>
   <br />
-  - Insert here pt.4
+  - PWM Up
   <br />
-  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
-  <br />
-  - Insert here pt.5
-  <br />
-  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/pwm_up.png" alt="node" style="width:200px;"/>
   </p>
