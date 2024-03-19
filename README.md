@@ -23,7 +23,7 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
   
   - Ubuntu 22.04
   <p style="text-align: center;">
-  <img src="images/jammy.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/jammy" alt="node" style="width:200px;"/>
   <br />
   Jammy Jellyfish Distribution:
   <br />
@@ -34,7 +34,7 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
 ## <span style="color: rgb(26, 99, 169);">**Hardware**</span>
 - ESP32
   <p style="text-align: center;">
-  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/esp32" alt="node" style="width:200px;"/>
   <br />
   Setting up your ESP32:
   <br />
