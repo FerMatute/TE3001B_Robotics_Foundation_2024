@@ -14,7 +14,7 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
 ## <span style="color: rgb(26, 99, 169);">**Software used**</span>
   - ROS II
   <p style="text-align: center;">
-  <img src="__assets/humble.png" alt="node" style="width:200px;"/>
+  <img src="images/humble.png" alt="node" style="width:200px;"/>
   <br />
   ROS II Documentation:
   <br />
@@ -23,7 +23,7 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
   
   - Ubuntu 22.04
   <p style="text-align: center;">
-  <img src="__assets/jammy.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/jammy.jpeg" alt="node" style="width:200px;"/>
   <br />
   Jammy Jellyfish Distribution:
   <br />
@@ -34,7 +34,7 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
 ## <span style="color: rgb(26, 99, 169);">**Hardware**</span>
 - ESP32
   <p style="text-align: center;">
-  <img src="__assets/esp32.jpeg" alt="node" style="width:200px;"/>
+  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
   <br />
   Setting up your ESP32:
   <br />
@@ -47,4 +47,28 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
   <br />
   https://randomnerdtutorials.com/?s=+Timed+out+waiting+for+packet+header
   </p>
-
+## <span style="color: rgb(26, 99, 169);">**Implementation**</span>
+  - Insert here
+  <p style="text-align: center;">
+  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <br />
+  - Insert here pt.1
+  <br />
+  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <br />
+  - Insert here pt.2
+  <br />
+  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <br />
+  - Insert here pt.3
+  <br />
+  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <br />
+  - Insert here pt.4
+  <br />
+  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  <br />
+  - Insert here pt.5
+  <br />
+  <img src="images/esp32.jpeg" alt="node" style="width:200px;"/>
+  </p>
