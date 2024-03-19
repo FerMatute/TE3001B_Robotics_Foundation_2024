@@ -14,7 +14,7 @@ A PID controller implemented on our ESP32, which receives signals from ROS II to
 ## <span style="color: rgb(26, 99, 169);">**Software used**</span>
   - ROS II
   <p style="text-align: center;">
-  <img src="images/humble.png" alt="node" style="width:200px;"/>
+  <img src="images/humble" alt="node" style="width:200px;"/>
   <br />
   ROS II Documentation:
   <br />
